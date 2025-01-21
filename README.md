@@ -7,10 +7,9 @@
 ![展示图1](./imgs/1.png)
 
 
-
+点击插件图标，再点击小眼睛按钮，让其固定在上面。
 ![展示图2](./imgs/2.png)
 
-点击插件图标，再点击小眼睛按钮，让其固定在上面。
 
 [GitHub安装]（推荐有梯子）(https://raw.githubusercontent.com/404undefined/gcc-cjcx/master/gcc_score.user.js)
 
